@@ -19,25 +19,6 @@ Then, I decided to create a programming language after listening to [Building so
 
 Before that, I was learning frontend.
 
-### ⌨️ Projects
-These are some of my projects:
-
-- [My website](https://github.com/yosefbeder/my-personal-website)
-  - I put all of the things that I know in that website and I'm really proud of it.
-  - Whenever I learn anything new I add it straight away.
-  - If you're curious you can [check out an older version of it](https://my-personal-website-cspvogaeu-yosefbeder.vercel.app/).
-
-- [My design system](https://github.com/yosefbeder/design-system)
-  - A lib that contains some pre-made components, tailwindcss design-system as custom props, and a CSS reset. 
-
-- [React throw code](https://github.com/yosefbeder/react-throwcode)
-  - A light code editor with highlighting.
-
-- [Typing speed test](https://github.com/yosefbeder/typing-speed-test)
-  - A typing speed test app with random quotes and an animated cursor.
-
-You can check my [GitHub account](https://github.com/yosefbeder) to see more.
-
 ### 📫 Contacting me
 Email: [dryosefbeder@gmail.com](mailto:dryosefbeder@gmail.com)
 
