@@ -41,5 +41,5 @@ You can check my [GitHub account](https://github.com/yosefbeder) to see more.
 ### 📫 Contacting me
 Email: [dryosefbeder@gmail.com](mailto:dryosefbeder@gmail.com)
 
-I don't have any social media apps, and Although I have an email I rarely open it, so don't expect me to respond straight away.
+I don't have any social media accounts, and Although I have an email I rarely open it, so don't expect me to respond straight away.
 
