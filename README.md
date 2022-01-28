@@ -1,7 +1,7 @@
 ### ✍️ About me
 Hi, I'm Yosef.
 
-Currently, I'm a high school student based in Egypt.
+I'm a high school student based in Egypt.
 
 I've been learning to code since January 19, 2020.
 
