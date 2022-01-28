@@ -30,7 +30,7 @@ These are some of my projects:
 - [My design system](https://github.com/yosefbeder/design-system)
   - A lib that contains some pre-made components, tailwindcss design-system as custom props, and a CSS reset. 
 
-- [React through code](https://github.com/yosefbeder/react-throwcode)
+- [React throw code](https://github.com/yosefbeder/react-throwcode)
   - A light code editor with highlighting.
 
 - [Typing speed test](https://github.com/yosefbeder/typing-speed-test)
