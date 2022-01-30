@@ -22,5 +22,7 @@ Before that, I was learning frontend.
 ### 📫 Contacting me
 Email: [dryosefbeder@gmail.com](mailto:dryosefbeder@gmail.com)
 
+Phone number: [01019967816](tel:+20109967816)
+
 I don't have any social media accounts, and Although I have an email I rarely open it, so don't expect me to respond straight away.
 
