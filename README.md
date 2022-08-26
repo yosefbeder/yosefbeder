@@ -11,3 +11,5 @@ At the beginning of this year, I decided to learn programming languages.
 I'm good at using Rust (wrote [a programming language](https://github.com/yosefbeder/qatam) with it) and JavaScript.
 
 I also use Python occasionally for writing scripts.
+
+I adore old Arabic poetry and memorize it every day.
