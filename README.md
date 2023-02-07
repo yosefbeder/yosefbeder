@@ -1,15 +1,15 @@
 Hi, I'm Yosef.
 
-I'm a high school student.
+I'm a *high school student*.
 
-I've been coding for about **three years now**.
+I've been coding for about *three years now*.
 
-Recently I've been learning Computer Science, in particular Algorithms and Computer Organization.
+Recently I've been learning *Computer Science*, in particular *Algorithms* and *Computer Organization*.
 
-I can code in **JavaScript**, **Rust**, **Java**, and **Python**.
+I can code in *JavaScript*, *Rust*, *Java*, and *Python*.
 
-I have some experience with front-end development.
+I have some experience with *Front-End Development*.
 
-I also know about compilers and even created a [simple programming language](https://github.com/yosefbeder/qatam).
+I also know about *Compilers* and even created a [simple programming language](https://github.com/yosefbeder/qatam).
 
 Programming is one of the things I enjoy the most, but I think it will always be a hobby.
