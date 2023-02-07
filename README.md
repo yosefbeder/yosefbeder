@@ -1,15 +1,15 @@
 Hi, I'm Yosef.
 
-I'm a high school student in my second year.
+I'm a high school student.
 
-I've been coding for about two years now.
+I've been coding for about **three years now**.
 
-I started programming by learning front-end development.
+Recently I've been learning Computer Science, in particular Algorithms and Computer Organization.
 
-At the beginning of this year, I decided to learn programming languages.
+I can code in **JavaScript**, **Rust**, **Java**, and **Python**.
 
-I'm good at using Rust (wrote [a programming language](https://github.com/yosefbeder/qatam) with it) and JavaScript.
+I have some experience with front-end development.
 
-I also use Python occasionally for writing scripts.
+I also know about compilers and even created a [simple programming language](https://github.com/yosefbeder/qatam).
 
-I adore old Arabic poetry and memorize it every day.
+Programming is one of the things I enjoy the most, but I think it will always be a hobby.
