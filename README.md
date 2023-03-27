@@ -10,6 +10,6 @@ I can code in *JavaScript*, *Rust*, *Java*, and *Python*.
 
 I have some experience with *Front-End Development*.
 
-I also know about *Compilers* and even created a [simple programming language](https://github.com/yosefbeder/qatam).
+I also know about *Compilers* and even created a [simple programming language](https://github.com/yosefbeder/qatam) (not yet complete).
 
 Programming is one of the things I enjoy the most, but I think it will always be a hobby.
